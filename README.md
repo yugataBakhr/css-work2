@@ -1,6 +1,6 @@
 # Practice drawing in CSS with some keyframes animation
 
-## I would appreciate it a big time if you share nice ideas to my work
+## I would appreciate it a big time if you share nice ideas with me
 
 ### I'm a self-taught learner who is highly motivated to bring my skills to the next level
 
